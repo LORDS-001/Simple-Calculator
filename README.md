@@ -6,8 +6,7 @@ A lightweight and user-friendly calculator built with Python that performs basic
 
 ## 📸 Demo
 
-![Calculator Screenshot](https://via.placeholder.com/600x300?text=Calculator+Demo)  
-*(Replace this with an actual screenshot of your calculator in action)*
+![Calculator Demo](SimpleCalculator.png)
 
 ---
 
