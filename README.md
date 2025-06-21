@@ -39,4 +39,4 @@ A lightweight and user-friendly calculator built with Python that performs basic
 
 
 ---
-> Built with ❤️ by Daniel Adedokun
+> Built by Daniel Adedokun
