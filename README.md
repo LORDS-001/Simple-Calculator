@@ -33,5 +33,10 @@ A lightweight and user-friendly calculator built with Python that performs basic
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/simple-calculator.git
+   git clone https://github.com/LORDS-001/simple-calculator.git
    cd simple-calculator
+   python calculator.py
+
+
+---
+> Built with ❤️ by Daniel Adedokun
